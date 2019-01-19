@@ -1,4 +1,4 @@
 <?php
 
-	echo "Aelotech";
+	echo "Loja Aelotech";
 ?>
